@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @HAXAZE
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Sahil kumar
+- 👀 I’m interested in Cyber Security
+- 🌱 I’m currently learning C++,Ethical Hacking
+- 💞️ I’m looking to collaborate on Web development projects
+- 📫 How to reach me www.linkedin.com/in/haxaze
+
 
 <!---
 HAXAZE/HAXAZE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
