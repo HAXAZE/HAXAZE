@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 👯 I’m looking to collaborate on **Web development**
+- 👯 I’m looking to collaborate on **Android Projects**
 
 - 📫 How to reach me **haxazeit@gmail.com**
 
