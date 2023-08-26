@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haxaze&label=Profile%20views&color=0e75b6&style=flat" alt="haxaze" /> </p>
 
-- 🔭 I’m currently working on **Android Development**
+- 🔭 I’m currently working on **JAVA BACKEND DEVELOPMENT**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **JAVA**
 
-- 👯 I’m looking to collaborate on **Android Projects**
+- 👯 I’m looking to collaborate on **AI-ML PROJECTS**
 
 - 📫 How to reach me **haxazeit@gmail.com**
 
