@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **BACKEND DEVELOPMENT**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **TREE-DSA**
 
 - 👯 I’m looking to collaborate on **Backend Projects**
 
