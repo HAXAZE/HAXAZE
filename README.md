@@ -18,6 +18,8 @@
 <a href="https://instagram.com/sahilkr_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahilkr_1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sahil_kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahil_kr" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/krsahil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="krsahil" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Sahilkr28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Sahilkr28" height="30" width="40" /></a>
+
 </p>
 
 
