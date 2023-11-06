@@ -29,9 +29,6 @@
 <h2>Badges🏅🏅</h2>
 
 [![@haxaze's Holopin board ](https://holopin.me/haxaze)](https://holopin.io/@haxaze)
-# 📊 GitHub Stats:
-![HAXAZE's Stats](https://github-readme-stats.vercel.app/api?username=HAXAZE&theme=dracula&show_icons=true&hide_border=true&count_private=false)
-
 
 
 
