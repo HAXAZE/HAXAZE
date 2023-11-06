@@ -31,7 +31,6 @@
 [![@haxaze's Holopin board ](https://holopin.me/haxaze)](https://holopin.io/@haxaze)
 # 📊 GitHub Stats:
 ![HAXAZE's Stats](https://github-readme-stats.vercel.app/api?username=HAXAZE&theme=dracula&show_icons=true&hide_border=true&count_private=false)
-![HAXAZE's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HAXAZE&theme=dracula&hide_border=true)
 
 
 
