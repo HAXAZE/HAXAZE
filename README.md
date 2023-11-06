@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **BACKEND DEVELOPMENT**
 
-- 🌱 I’m currently learning **FLutter🐦 **
+- 🌱 I’m currently learning **FLutter🐦**
 
 - 👯 I’m looking to collaborate on **Backend Projects**
 
