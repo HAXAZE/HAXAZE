@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/>
 </a>
 </p>
-<h2>Badges🏅🏅</h2>
+<h2 align="center">Hacktoberfest 22</h2>
 
 [![@haxaze's Holopin board ](https://holopin.me/haxaze)](https://holopin.io/@haxaze)
 
