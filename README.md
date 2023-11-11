@@ -1,139 +1,38 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: #f7f7f7;
-            color: #333;
-            margin: 0;
-            padding: 0;
-        }
+<h1 align="center">Hi 👋, I'm Sahil Kumar</h1>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
-        h1 {
-            text-align: center;
-            margin-top: 20px;
-        }
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=haxaze&label=Profile%20views&color=0e75b6&style=flat" alt="haxaze" /> </p>
 
-        img {
-            float: right;
-            margin-top: 20px;
-            border-radius: 8px;
-        }
+- 🔭 I’m currently working on **BACKEND DEVELOPMENT**
 
-        .profile-views {
-            text-align: left;
-            margin-bottom: 20px;
-        }
+- 🌱 I’m currently learning **React.js**
 
-        ul {
-            list-style: none;
-            padding: 0;
-        }
+- 👯 I’m looking to collaborate on **Backend Projects**
 
-        li {
-            margin-bottom: 10px;
-        }
+<h3 align="left">Connect with me:</h3>
+<p> <!-- Change alignment to center -->
+    <a href="https://dev.to/@haxaze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@haxaze" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/haxaze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haxaze" height="30" width="40" /></a>
+    <a href="https://instagram.com/sahilkr_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahilkr_1" height="30" width="40" /></a>
 
-        h3 {
-            margin-top: 20px;
-        }
+</p>
 
-        .social-icons {
-            display: flex;
-            justify-content: center;
-            gap: 15px;
-        }
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 
-        .social-icons img {
-            width: 30px;
-            height: 30px;
-            border-radius: 50%;
-            transition: transform 0.3s ease-in-out;
-        }
-
-        .social-icons img:hover {
-            transform: scale(1.2);
-        }
-
-        .tech-stack {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 10px;
-            justify-content: center;
-            margin-top: 20px;
-        }
-
-        .tech-stack img {
-            width: 50px;
-            height: 50px;
-            object-fit: contain;
-        }
-
-        .competitive-programming {
-            display: flex;
-            justify-content: center;
-            margin-top: 20px;
-        }
-
-        .competitive-programming a {
-            margin-right: 20px;
-        }
-
-        .holopin-board {
-            text-align: center;
-            margin-top: 20px;
-        }
-    </style>
-    <title>Sahil Kumar's Profile</title>
-</head>
-<body>
-
-<h1>Hi 👋, I'm Sahil Kumar</h1>
-<img alt="coding" width="300" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
-
-<div class="profile-views">
-    <p><img src="https://komarev.com/ghpvc/?username=haxaze&label=Profile%20views&color=0e75b6&style=flat" alt="haxaze" /></p>
-</div>
-
-<ul>
-    <li>🔭 I’m currently working on <strong>BACKEND DEVELOPMENT</strong></li>
-    <li>🌱 I’m currently learning <strong>React.js</strong></li>
-    <li>👯 I’m looking to collaborate on <strong>Backend Projects</strong></li>
-</ul>
-
-<h3>Connect with me:</h3>
-<div class="social-icons">
-    <a href="https://dev.to/@haxaze" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@haxaze"></a>
-    <a href="https://linkedin.com/in/haxaze" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haxaze"></a>
-    <a href="https://instagram.com/sahilkr_1" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahilkr_1"></a>
-</div>
-
-<h3>Tech Stack:</h3>
-<div class="tech-stack">
-    <!-- Add your tech stack images here -->
-</div>
-
-<h2>Competitive Programming</h2>
-<div class="competitive-programming">
+<h2 align="left">Competitive Programming</h2>
+<p align="left">
     <a href="https://codeforces.com/profile/Sahilkr28" target="_blank">
         <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/>
-    </a>
+    </a>&nbsp;&nbsp;
     <a href="https://www.leetcode.com/sahil_kr" target="_blank">
         <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode"/>
-    </a>
+    </a>&nbsp;&nbsp;
     <a href="https://auth.geeksforgeeks.org/user/krsahil" target="_blank">
         <img src="https://img.shields.io/badge/GeeksforGeeks-%2300B200.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks"/>
     </a>
-</div>
+</p>
 
-<h2>Hacktoberfest 22</h2>
+<h2 align="left">Hacktoberfest 22</h2>
 
-<div class="holopin-board">
-    <a href="https://holopin.me/haxaze" target="_blank">[@haxaze's Holopin board]</a>
-</div>
-
-</body>
-</html>
+[![@haxaze's Holopin board ](https://holopin.me/haxaze)](https://holopin.io/@haxaze)
