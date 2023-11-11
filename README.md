@@ -11,7 +11,7 @@
 
 - 
 <h3 align="left">Connect with me:</h3>
-<p align="center"> <!-- Change alignment to center -->
+<p> <!-- Change alignment to center -->
     <a href="https://dev.to/@haxaze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@haxaze" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/haxaze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haxaze" height="30" width="40" /></a>
     <a href="https://instagram.com/sahilkr_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahilkr_1" height="30" width="40" /></a>
