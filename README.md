@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Docker**
 
-- 👯 I’m looking to collaborate on **Backend Projects**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 <h3 align="left">Connect with me</h3>
 <p> <!-- Change alignment to center -->
