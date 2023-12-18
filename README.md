@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **BACKEND DEVELOPMENT**
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **MongoDB**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
