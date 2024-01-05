@@ -40,7 +40,11 @@
 [![@haxaze's Holopin board ](https://holopin.me/haxaze)](https://holopin.io/@haxaze)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HAXAZE&theme=cobalt&show_icons=true&hide_border=false&count_private=true" alt="HAXAZE's Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HAXAZE&theme=cobalt&hide_border=false" alt="HAXAZE's Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAXAZE&theme=cobalt&show_icons=true&hide_border=false&layout=compact" alt="HAXAZE's Top Languages">
+</div>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HAXAZE&theme=cobalt&hide_border=false" alt="HAXAZE's Streak">
+</div>
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAXAZE&theme=cobalt&show_icons=true&hide_border=false&layout=compact" alt="HAXAZE's Top Languages">
 </div>
 
