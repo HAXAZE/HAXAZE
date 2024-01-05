@@ -38,6 +38,8 @@
 # Hacktoberfest 22
 
 [![@haxaze's Holopin board ](https://holopin.me/haxaze)](https://holopin.io/@haxaze)
-
+<center>
 ![HAXAZE's Stats](https://github-readme-stats.vercel.app/api?username=HAXAZE&theme=cobalt&show_icons=true&hide_border=false&count_private=true)
 ![HAXAZE's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HAXAZE&theme=cobalt&hide_border=false)
+![HAXAZE's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HAXAZE&theme=cobalt&show_icons=true&hide_border=false&layout=compact)
+</center>
