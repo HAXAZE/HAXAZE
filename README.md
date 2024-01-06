@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **REACT.js**
 
-- 🌱 I’m currently learning **Express**
+- 🌱 I’m currently learning **Frontend**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
