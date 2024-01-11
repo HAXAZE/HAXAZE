@@ -44,8 +44,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HAXAZE&theme=cobalt&show_icons=true&hide_border=false&count_private=true" alt="HAXAZE's Stats">
 </div>
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HAXAZE&theme=cobalt&hide_border=false" alt="HAXAZE's Streak">
-</div>
+
 
 
