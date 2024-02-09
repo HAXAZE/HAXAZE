@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haxaze&label=Profile%20views&color=0e75b6&style=flat" alt="haxaze" /> </p>
 
-- 🔭 I’m currently working on **Full Stack**
+- 🔭 I’m currently working on **Python**
 
 - 🌱 I’m currently learning **Next.js**
 
