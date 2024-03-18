@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haxaze&label=Profile%20views&color=0e75b6&style=flat" alt="haxaze" /> </p>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **Frontend**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **React.js**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
