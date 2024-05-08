@@ -28,4 +28,13 @@
 <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/>
 </a>&nbsp;&nbsp;
 <a href="https://www.leetcode.com/sahil_kr" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-%239EC94A.svg?style=for-the-badge&logo=LeetCode&logoColor=white" al
+<img src="https://img.shields.io/badge/LeetCode-%239EC94A.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode"/>
+</a>&nbsp;&nbsp;
+<a href="https://auth.geeksforgeeks.org/user/krsahil" target="_blank">
+<img src="https://img.shields.io/badge/GeeksforGeeks-%235C68C4.svg?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" alt="GeeksforGeeks"/>
+</a>
+</p>
+
+# Hacktoberfest 22
+
+[![@haxaze's Holopin board ](https://holopin.me/haxaze)](https://holopin.io/@haxaze)
