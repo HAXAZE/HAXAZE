@@ -24,7 +24,7 @@
 
 # Competitive Programming
 <p align="left">
-<a href="https://codeforces.com/profile/Sahilkr28" target="_blank">
+<a href="https://codeforces.com/profile/krSahil" target="_blank">
 <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/>
 </a>&nbsp;&nbsp;
 <a href="https://www.leetcode.com/sahil_kr" target="_blank">
