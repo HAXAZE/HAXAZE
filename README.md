@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Food Delivery App**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Docker**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
