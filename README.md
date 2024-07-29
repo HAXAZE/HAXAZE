@@ -39,10 +39,4 @@
 
 [![@haxaze's Holopin board ](https://holopin.me/haxaze)](https://holopin.io/@haxaze)
 
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=HAXAZE&style=for-the-badge&color=orange" alt=""/>
-</div>
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
+![snake animation](https://github.com/<seu HAXAZE>/<seu HAXAZE>/blob/output/github-contribution-grid-snake2.svg)
