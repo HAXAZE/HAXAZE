@@ -39,4 +39,3 @@
 
 [![@haxaze's Holopin board ](https://holopin.me/haxaze)](https://holopin.io/@haxaze)
 
-![snake animation](https://github.com/<seu HAXAZE>/<seu HAXAZE>/blob/output/github-contribution-grid-snake2.svg)
