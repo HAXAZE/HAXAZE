@@ -28,12 +28,12 @@ I am a passionate Full Stack Developer with a strong interest in Machine Learnin
 
 ### Languages:
 <a href="https://github.com/HAXAZE">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,solidity,javascript,typescript,sql" />
+  <img src="https://skillicons.dev/icons?i=python,java,Go,javascript,typescript,sql" />
 </a>
 
 ### Frameworks & Libraries:
 <a href="https://github.com/HAXAZE">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,django,flask,keras,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,Spring Boot,flask" />
 </a>
 
 ### Developer Tools:
@@ -46,10 +46,7 @@ I am a passionate Full Stack Developer with a strong interest in Machine Learnin
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite" />
 </a>
 
-## 📈 Stats
 
-### GitHub Stats:
-[![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HAXAZE&show_icons=true&count_private=true&theme=radical)](https://github.com/HAXAZE)
 
 
 
