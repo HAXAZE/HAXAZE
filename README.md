@@ -5,7 +5,6 @@ I am a passionate Full Stack Developer with a strong interest in Machine Learnin
 [![LinkedIn Badge](https://img.shields.io/badge/Sahil%20Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haxaze/)](https://www.linkedin.com/in/haxaze/)
 [![Gmail Badge](https://img.shields.io/badge/-sahil.kumar1234@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahil.kumar1234@gmail.com)](mailto:sahil.kumar1234@gmail.com)
 
-
 ## 📫 Connect with Me:
 
 <p align="left">
@@ -23,17 +22,16 @@ I am a passionate Full Stack Developer with a strong interest in Machine Learnin
   </a>
 </p>
 
-
 ## ⚡ Technologies
 
 ### Languages:
 <a href="https://github.com/HAXAZE">
-  <img src="https://skillicons.dev/icons?i=python,java,Go,javascript,typescript,sql" />
+  <img src="https://skillicons.dev/icons?i=python,java,go,javascript,typescript,sql" />
 </a>
 
 ### Frameworks & Libraries:
 <a href="https://github.com/HAXAZE">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,Spring Boot,flask" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,springboot,flask" />
 </a>
 
 ### Developer Tools:
@@ -46,10 +44,6 @@ I am a passionate Full Stack Developer with a strong interest in Machine Learnin
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite" />
 </a>
 
-
-
-
-
 ### Top Contributed Repo:
 [![Sahil's Top Repo](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HAXAZE&theme=radical)](https://github.com/HAXAZE)
 
@@ -60,4 +54,3 @@ I am a passionate Full Stack Developer with a strong interest in Machine Learnin
   Visitors count:<br>
   <img src="https://profile-counter.glitch.me/HAXAZE/count.svg" />
 </p>
-
