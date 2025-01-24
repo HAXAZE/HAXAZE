@@ -31,9 +31,9 @@ I am a passionate Full Stack Developer with a strong interest in Machine Learnin
 
 ### Frameworks & Libraries:
 <a href="https://github.com/HAXAZE">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Spring_Boot_logo.svg" alt="Spring Boot" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,java,flask" />
 </a>
+
 
 
 ### Developer Tools:
