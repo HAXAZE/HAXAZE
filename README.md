@@ -51,8 +51,7 @@ I am a passionate Full Stack Developer with a strong interest in Machine Learnin
 ### GitHub Stats:
 [![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HAXAZE&show_icons=true&count_private=true&theme=radical)](https://github.com/HAXAZE)
 
-### GitHub Streak:
-[![Sahil's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HAXAZE&theme=radical&border=7F3FBF&background=0D1117)](https://github.com/HAXAZE)
+
 
 ### Top Contributed Repo:
 [![Sahil's Top Repo](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HAXAZE&theme=radical)](https://github.com/HAXAZE)
