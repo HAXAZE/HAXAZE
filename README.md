@@ -1,6 +1,6 @@
 ## Hi, I'm Sahil Kumar! 👋🏻
 
-I am a passionate Full Stack Developer with a strong interest in Machine Learning, Open Source contributions, and competitive programming. Currently, I'm an **SDE Intern** at **BlueStock Fintech** and have previous experience in Machine Learning at **Koireader**. I'm also working on a variety of projects in **MERN**, **Blockchain**, and **AI/ML**. Feel free to connect with me!
+I am a passionate Full Stack Developer with a strong interest in Backend Development, Machine Learning, Open Source contributions, and competitive programming. Currently, I'm an **Looking for SDE Roles** and have previous experience as a python Developer at **Koireader Technologies**. I'm also working on a variety of projects in **Golang**, and **AI/ML**. Feel free to connect with me!
 
 [![LinkedIn Badge](https://img.shields.io/badge/Sahil%20Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haxaze/)](https://www.linkedin.com/in/haxaze/)
 [![Gmail Badge](https://img.shields.io/badge/-sahil.kumar1234@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sahil.kumar1234@gmail.com)](mailto:28skofficial01@gmail.com)
@@ -51,7 +51,3 @@ I am a passionate Full Stack Developer with a strong interest in Machine Learnin
 
 
 
-<p align="center">
-  Visitors count:<br>
-  <img src="https://profile-counter.glitch.me/HAXAZE/count.svg" />
-</p>
