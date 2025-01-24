@@ -31,14 +31,14 @@ I am a passionate Full Stack Developer with a strong interest in Machine Learnin
 
 ### Frameworks & Libraries:
 <a href="https://github.com/HAXAZE">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,java,flask" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask" />
 </a>
 
 
 
 ### Developer Tools:
 <a href="https://github.com/HAXAZE">
-  <img src="https://skillicons.dev/icons?i=git,github,aws,docker,kubernetes,vs_code,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,aws,docker,kubernetes,postman" />
 </a>
 
 ### Databases:
