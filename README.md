@@ -23,7 +23,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haxaze&show_icons=true&locale=en" alt="haxaze" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haxaze&" alt="haxaze" /></p>
 
 
 
