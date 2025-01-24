@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahil Kumar</h1>
 <h3 align="center">Architecting Scalable Backends with Code and Passion</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haxaze" alt="haxaze" /></a> </p>
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
