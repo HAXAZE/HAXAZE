@@ -49,8 +49,7 @@ I am a passionate Full Stack Developer with a strong interest in Machine Learnin
 ### Top Contributed Repo:
 [![Sahil's Top Repo](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HAXAZE&theme=radical)](https://github.com/HAXAZE)
 
-### Top Languages:
-[![Sahil's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HAXAZE&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117)](https://github.com/HAXAZE)
+
 
 <p align="center">
   Visitors count:<br>
