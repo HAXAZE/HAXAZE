@@ -28,7 +28,7 @@ I am a passionate Full Stack Developer with a strong interest in Backend Develop
 
 ### Databases:
 <a href="https://github.com/HAXAZE">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,ScyllaDB" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite" />
 </a>
 
 ### Top Contributed Repo:
