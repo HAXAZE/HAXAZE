@@ -1,4 +1,4 @@
-## Hi, I'm Sahil Kumar! 👋🏻
+## Hi 👋🏻, I'm Sahil Kumar! 
 
 I am a passionate Full Stack Developer with a strong interest in Backend Development, Machine Learning, Open Source contributions, and competitive programming. Currently. I'm also working on a variety of projects in **Golang**, and **AI/ML**. Feel free to connect with me!
 
