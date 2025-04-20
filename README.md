@@ -1,6 +1,6 @@
 ## Hi 👋🏻, I'm Sahil Kumar! 
 
-I am a passionate Full Stack Developer with a strong interest in Backend Development, Machine Learning, Open Source contributions, and competitive programming. Currently. I'm also working on a variety of projects in **Golang**, and **AI/ML**. Feel free to connect with me!
+I am a passionate Full Stack Developer with a strong interest in Backend Development, Machine Learning, Open Source contributions. Currently. I'm also working on a variety of projects in **Golang**, and **AI/ML**. Feel free to connect with me!
 
 [![LinkedIn Badge](https://img.shields.io/badge/Sahil%20Kumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haxaze/)](https://www.linkedin.com/in/haxaze/)
 [![Gmail Badge](https://img.shields.io/badge/-28skofficial01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:28skofficial01@gmail.com)](mailto:28skofficial01@gmail.com)
