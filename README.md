@@ -16,7 +16,7 @@ I am a passionate Full Stack Developer with a strong interest in Backend Develop
 
 ### Frameworks & Libraries:
 <a href="https://github.com/HAXAZE">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
 </a>
 
 
